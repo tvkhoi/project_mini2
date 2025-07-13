@@ -271,6 +271,16 @@
     margin-bottom: 40px;
 }
 
+@media (max-width: 991.98px) {
+    .head .head-des {
+        width: 80%;
+    }
+}
+@media (max-width: 767.98px) {
+    .head .head-des {
+        width: 100%;
+    }
+}
 /* End Head */
 
 /* Section four */
